@@ -1,0 +1,16 @@
+/* 
+    Theme Name : hodecode
+    Author: abolfazl Mohseni
+    Version:0
+
+
+*/
+@font-face {
+    font-family: "iransans";
+    src: url(./IRANSansWeb_Medium.woff2);
+}
+
+body {
+    font-family: "iransans";
+    background-color: #fafafa;
+}
