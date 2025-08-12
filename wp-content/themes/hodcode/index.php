@@ -41,8 +41,6 @@
 </ul>
 
 <div id="page" class="site">
-    <?php get_header(); ?>
-
     <main id="main" class="max-w-screen-lg mx-auto mt-10">
         <div class="grid mx-4 grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-10 sm:mx-2.5">
             <?php
